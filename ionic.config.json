@@ -1,0 +1,7 @@
+{
+  "name": "ngxs-shopping-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
